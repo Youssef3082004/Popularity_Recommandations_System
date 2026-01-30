@@ -2,7 +2,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=F6B544&center=true&width=700&lines=Popularity+Recommendation+System;A+simple+AI-based+approach+to+recommend+popular+items;Baseline+model+for+Recommender+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=004c7f&center=true&width=700&lines=Popularity+Recommendation+System;A+simple+AI-based+approach+to+recommend+popular+items;Baseline+model+for+Recommender+Systems)](https://git.io/typing-svg)
 
 
 
